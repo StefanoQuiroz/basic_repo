@@ -1,0 +1,11 @@
+356  git commit -m "First Commit"
+  357  git status
+  358  git add .
+  359  git commit -m "First Commit"
+  360  git add index.html
+  361  git commit -m "Actualizacion de html"
+  362  git add style.css
+  363  git commit -m "actualizacion de css"
+  364  git log
+  365  git remote add origin https://github.com/StefanoQuiroz/basic_repo.git
+  366  git push origin master
